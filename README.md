@@ -33,7 +33,7 @@ USB VID/PID assigned via [pid.codes](https://pid.codes/) (requested: VID 0x1209 
 
 ## 🔍 Hardware Resources
 ![PCB Top View](./images/mcmacro04_topview.png)  
-- [Kicad ZIP](./hardware/mcmini04_kicad.zip)  
+- [Kicad ZIP](./hardware/mcmacro04_kicad.zip)  
 
 ---
 
